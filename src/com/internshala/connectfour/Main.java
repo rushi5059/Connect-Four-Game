@@ -76,7 +76,7 @@ public class Main extends Application {
 
 		Alert alert = new Alert(Alert.AlertType.INFORMATION);
 		alert.setTitle("About The Developer");
-		alert.setHeaderText("Rushi Pote");
+		alert.setHeaderText("Rushikesh Pote");
 		alert.setContentText("I love to play around with code and create games. " +
 				"Connect 4 is one of them. In free time " +
 				"I like to spend time with nears and dears.");
